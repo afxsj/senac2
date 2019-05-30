@@ -1,0 +1,24 @@
+h1{
+    color: darkslategray;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+ p{
+     color: lightslategray;
+     font-family:'Lobster';
+     font-size: 30px;
+ }
+
+ ul{
+     font-family: 'Lobster';
+     color: darkgrey;
+     font-size: 22px;
+     
+ }
+
+ .banner{
+     background-image: url(../images/Sensatez.jpg);
+     height: 200px;
+     
+ }

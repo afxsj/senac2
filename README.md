@@ -4,7 +4,7 @@ Assistente de criação de app computacional
 ## Repositório GIT para fins de estudo do SENAC SJBV
 
 ** Turma** 2019
-## Conhecimetos adoquiridos 
+## Conhecimetos adiquiridos 
 
 - Photoshop (Wireframes/ Prototipagem Web)
 - HTML5 & CSS3

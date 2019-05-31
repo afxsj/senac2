@@ -1,0 +1,73 @@
+#main{
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.row{
+    clear: both;
+}
+
+.bloco3{
+    width: 25%;
+    float: left;
+}
+
+.bloco12{
+    width: 100%;
+    float: left;
+}
+
+.bloco4{
+    width: 33.3333%;
+    float: left;
+}
+
+.bloco5{
+    width: 41.6667%;
+    float: left;
+}
+
+.bloco6{
+    width: 50%;
+    float: left;
+}
+
+.vermelho{
+    background-color: #f00;
+}
+.amarelo{
+    background-color: #ff0;
+}
+.azul{
+    background-color: #06f;
+}
+.verde{
+    background-color: green;
+}
+.laranja{
+    background-color: orange;
+}
+.roxo{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
+.rose{
+    background-color: #f99;
+}
+
+.altura1{
+    height: 200px;
+}
+.altura2{
+    height: 300px;
+}
+.altura3{
+    height: 400px;
+}
+@media screen and ( max-width:479px){
+.altura3{ height:600px;}
+.bloco3 {width: 100%; float: left;}
+.bloco6{ width: 100%;}
+}

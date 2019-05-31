@@ -1,0 +1,54 @@
+#main{
+    width: 1366px;
+    margin: 0 auto;
+}
+/*linhas*/
+.row{
+    clear: both;
+}
+/*colunas*/
+.bloco1{
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+.bloco3{
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+.bloco4{
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+
+.bloco5{
+    height: 400px;
+    width: 25%;
+    float: left;
+
+}
+
+/*cores*/
+.vermelho{
+background-color: red
+}
+
+.amarelo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
+
+.laranja{
+    background-color: orange;
+}
+
+
+
+
+
+
+

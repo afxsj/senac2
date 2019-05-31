@@ -1,0 +1,67 @@
+#main{
+    width: 1366px;
+    margin: 0 auto;
+}
+/*linhas*/
+.row{
+    clear: both;
+}
+/*colunas*/
+.bloco12{
+    width: 100%;
+    float:left;
+}
+.bloco9{
+    width: 75%;
+    float: left;
+}
+.bloco6{
+    width: 50%;
+    float: left;
+}
+
+.bloco3{
+    width: 25%;
+    float: left;
+
+}
+
+/*altura*/
+.altura1{ height: 200px;}
+.altura2{ height: 300px;}
+
+
+/*cores*/
+.azul{
+background-color: blue
+}
+
+.roxo{
+    background-color:purple;
+}
+.verde{
+    background-color: green;
+}
+
+.azul{
+    background-color:blue;
+    
+}
+.amarelo{
+    background-color: yellow;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.laranja{
+    background-color: orange;
+}
+
+
+
+
+
+
+

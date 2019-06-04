@@ -1,24 +1,88 @@
-h1{
-    color: darkslategray;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-
+body{
+    background-color: rgb(221, 226, 197);
 }
- p{
+
+#main{
+    width: 1366px;
+    margin: 0 auto;  
+    /*width: 100%;
+    float: left;*/
+    background-color: lightsteelblue;
+ }
+
+
+h1{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+p{
      color: lightslategray;
      font-family:'Lobster';
-     font-size: 30px;
+     font-size: 25px;
+     margin: 20px;
  }
+
 
  ul{
      font-family: 'Lobster';
-     color: darkgrey;
+     color: rgb(121, 118, 118);
      font-size: 22px;
+     margin: 10px;
+  
      
  }
 
- .banner{
-     background-image: url(../images/Sensatez.jpg);
-     height: 200px;
-     
+.row{
+    clear: both;
  }
+
+ .bloco12{
+     width: 100%;
+     float: left;
+  background-color: blanchedalmond;
+   
+ }
+
+ .bloco6{
+     width: 50%;
+     float: left;
+  
+    
+     
+
+ }
+
+
+ .paralax{
+    clear: both;
+    background-image: url("../images/brabuleta.jpg");
+    min-height: 500px;
+
+/*efeito parallax*/
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+ @media screen and ( max-width:479px){
+    
+    .bloco12 {width: 100%; float: left;}
+    .bloco6{ width: 100%;}
+ }
+
+
+
+ 
+     
+ 
+ 

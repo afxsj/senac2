@@ -41,7 +41,7 @@ body{
 
     .paralax{
         clear: both;
-        background-image: url("../img/fundo_1.jpg");
+        background-image: url("../img/");
         min-height: 400px;
     
     /*efeito parallax*/
@@ -124,7 +124,7 @@ background-size: cover;
 #menuinferior ul li{
     list-style: none;
     display: block;
-    width: 13%;
+    width: 10%;
     float: right;
     text-align: center;
     border-right:1px solid #c4d25e;
